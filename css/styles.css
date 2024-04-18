@@ -1,0 +1,187 @@
+*{
+    color: #40514E;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    padding: 0; 
+    margin:0; 
+}
+
+h1{
+    color: #66BFBF;
+    padding: 40px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: "Sacramento", cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 312.5%;
+}   
+
+h2{
+    color: powderblue;
+   font-family: "Merriweather", serif;
+   font-weight: bold;
+   font-style: normal;
+   font-size: 30px;
+}
+
+h3{
+    color: powderblue;
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    font-style: normal;
+
+ }
+
+ hr{
+    border-style: dotted;
+    border-width: 6px;
+    border-top: 0;
+    color: #EAF6F6;
+    font-weight: bold;
+    width: 6%;
+    margin: 50px auto ;
+ }
+
+.job-title{
+    padding: 20px;
+    color: powderblue;
+    text-align: center; 
+    font-family: "Merriweather", serif;
+    font-size: 1.5rem;
+    font-size: 30px;
+}
+.header-link{
+    text-decoration: none;
+    color: #0000009f;
+    font-size: 20px;
+    position: relative;
+    left: 800px; 
+    bottom: 40px;
+    padding-right: 20px;
+}
+
+.header-link a:hover{
+    color: #EAF6F6;
+}
+.pro{
+    text-decoration: underline;
+    color: powderblue;
+}
+.me{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 300px;
+    padding-top: 20px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 120px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 350px;   
+}
+.coding{
+    width: 30%;
+    padding: 25px 20px 10px;
+    border-radius: 50px;
+    float: left;
+}
+.mountain{
+    position: absolute;
+    right: 400px;
+    height: 328px;
+} 
+.middle-container{
+    text-align: center;
+}
+.profile{
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+.picture{
+    width: 30%;
+    margin: 80px auto 20px;
+}
+.Skills{
+    padding: 20px 0 20px;
+}
+
+.Skill-rows{
+    width: 50%;
+    margin: 0 auto 0 auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-container{
+    background-color: #EAF6F6;
+    height: 642px;
+    position: relative; 
+}
+.voiceover{
+    width: 30%; 
+    border-radius: 50px;
+    float: right;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 40px 0 40px;
+    
+}
+.footer-link{
+    color: #11999E;
+    margin: 0 20px 0; 
+    text-decoration: none;
+
+}
+
+.contact-me{
+    margin: 100px auto 100px;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+.BUTTON_PFC {
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: "Merriweather", serif;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 15px;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #0059A0 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_PFC:hover {
+    border: solid #000000 1px;
+    background: #1A73D7;
+    background-image: -webkit-linear-gradient(top, #1A73D7, #7A98C7);
+    background-image: -moz-linear-gradient(top, #1A73D7, #7A98C7);
+    background-image: -ms-linear-gradient(top, #1A73D7, #7A98C7);
+    background-image: -o-linear-gradient(top, #1A73D7, #7A98C7);
+    background-image: -webkit-gradient(to bottom, #1A73D7, #7A98C7);
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+    text-decoration: none;
+ }
